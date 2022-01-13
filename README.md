@@ -10,12 +10,12 @@
 ## ferramentas que estou estudando
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="cyc0-linux" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg">
-  <img align="center" alt="cyc0-bash" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-plain.svg">
-  <img align="center" alt="cyc0-docker" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
-  <img align="center" alt="cyc0-git" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
-  <img align="center" alt="cyc0-go" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-plain.svg">
-  <img align="center" alt="cyc0-code" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg">
+  <img align="center" alt="cyc0-linux" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original-wordmark.svg">
+  <img align="center" alt="cyc0-bash" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original-wordmark.svg">
+  <img align="center" alt="cyc0-docker" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="cyc0-git" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg">
+  <img align="center" alt="cyc0-go" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+  <img align="center" alt="cyc0-code" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg">
 </div>
   
 ## redes sociais
