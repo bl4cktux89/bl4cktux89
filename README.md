@@ -2,9 +2,10 @@
 
 ## primeiramente vou me apresentar
 
-* atualmente sou coordenador de implantação em uma prestadora de serviços para um fabricante de equipamentos de redes de transporte;
-* criei esse perfil no github para registrar a minha evolução na transição de carreira;
-* resolvi aproveitar a virada de ano e resetar meu perfil, bora que 2k22 tá só iniciando.
+* atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte
+* criei esse perfil no github para registrar a minha evolução na transição de carreira
+* resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo
+* vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer
 
 ## ferramentas que estou estudando
 
