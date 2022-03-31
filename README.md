@@ -9,15 +9,19 @@
 ## ferramentas que estou estudando
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="cyc0-go" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="cyc0-linux" height="80" width="100" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="cyc0-bash" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="cyc0-docker" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="cyc0-git" height="80" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="cyc0-code" height="80" width="100"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="cyc0-go" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="cyc0-linux" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="cyc0-bash" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="cyc0-docker" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="cyc0-git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="cyc0-code" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
-  
-## redes sociais
+
+<div align="center">
+  <a href="https://github.com/bl4cktux89">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4cktux89&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <div>
   <a href="https://www.linkedin.com/in/vinicius-santana-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
