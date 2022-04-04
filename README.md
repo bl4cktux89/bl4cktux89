@@ -1,14 +1,12 @@
 <h1 align="center"> meu nome é Vinícius e estou transicionando para DevOps/SRE </h1>
 
 <h2 align="center"> primeiramente vou me apresentar</h2>
-<body align="center">
-<ul>
+<ul align="center">
   <li>atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte</li>
   <li>criei esse perfil no github para registrar a minha evolução na transição de carreira</li>
   <li>resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo</li>
   <li>vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer</li>
 </ul>
-</body>
 <h2 align="center"> ferramentas que estou estudando</h2>
 
 <div align="center" style="display: inline_block"><br>
