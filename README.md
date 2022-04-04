@@ -1,17 +1,13 @@
-<h1 align="left"> meu nome é Vinícius e sou um analista de redes em transição para DevOps/SRE </h1>
+<h1 align="center"> meu nome é Vinícius e estou transicionando para DevOps/SRE </h1>
 
----
-
-<h2 align="left"> primeiramente vou me apresentar</h2>
-
-* atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte
-* criei esse perfil no github para registrar a minha evolução na transição de carreira
-* resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo
-* vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer
-
----
-
-## ferramentas que estou estudando
+<h2 align="center"> primeiramente vou me apresentar</h2>
+<body align="center">
+atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte
+criei esse perfil no github para registrar a minha evolução na transição de carreira
+resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo
+vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer
+</body>
+<h2 align="center"> ferramentas que estou estudando</h2>
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="cyc0-go" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
@@ -22,9 +18,7 @@
   <img align="center" alt="cyc0-code" height="45" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
 
----
-
-## redes sociais
+<h2 align="center"> redes sociais</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/vinicius-santana-da-silva" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://t.me/bl4cktux89" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
@@ -35,7 +29,7 @@
 
 ---
 
-## github stats
+<h2 align="center"> github stats</h2>
 <div align="center">
   <a href="https://github.com/bl4cktux89">
   <img height="180" width="350" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
