@@ -1,22 +1,26 @@
-<h1 align="center"> meu nome é Vinícius e sou um analista de redes em transição para DevOps/SRE </h1>
-
-## primeiramente vou me apresentar
+<h1 align="left"> meu nome é Vinícius e sou um analista de redes em transição para DevOps/SRE </h1>
+---
+<h2 align="left"> primeiramente vou me apresentar<h2>
 
 * atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte
 * criei esse perfil no github para registrar a minha evolução na transição de carreira
 * resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo
 * vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer
 
+---
+
 ## ferramentas que estou estudando
 
 <div align="center" style="display: inline_block"><br>
-  <img align="center" alt="cyc0-go" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  <img align="center" alt="cyc0-linux" height="30" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="cyc0-bash" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="cyc0-docker" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
-  <img align="center" alt="cyc0-git" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="cyc0-code" height="30" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="cyc0-go" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
+  <img align="center" alt="cyc0-linux" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+  <img align="center" alt="cyc0-bash" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
+  <img align="center" alt="cyc0-docker" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg">
+  <img align="center" alt="cyc0-git" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="cyc0-code" height="45" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
+
+---
 
 ## redes sociais
 <div align="center">
@@ -27,6 +31,7 @@
   <a href="https://dev.to/bl4cktux89" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>  
 
+---
 
 ## github stats
 <div align="center">
