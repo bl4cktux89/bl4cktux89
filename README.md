@@ -2,10 +2,12 @@
 
 <h2 align="center"> primeiramente vou me apresentar</h2>
 <body align="center">
-atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte
-criei esse perfil no github para registrar a minha evolução na transição de carreira
-resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo
-vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer
+<ul>
+  <li>atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte</li>
+  <li>criei esse perfil no github para registrar a minha evolução na transição de carreira</li>
+  <li>resolvi aproveitar a virada de ano e resetar meu perfil, voltei ao início de tudo</li>
+  <li>vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reliability Engineer</li>
+</ul>
 </body>
 <h2 align="center"> ferramentas que estou estudando</h2>
 
@@ -26,8 +28,6 @@ vou aprender backend e Go em um primeiro momento, pelo meu foco ser um Site Reli
   <a href="https://www.twitter.com/bl4cktux89/" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   <a href="https://dev.to/bl4cktux89" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" target="_blank"></a>
 </div>  
-
----
 
 <h2 align="center"> github stats</h2>
 <div align="center">
