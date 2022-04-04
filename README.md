@@ -1,6 +1,8 @@
 <h1 align="left"> meu nome é Vinícius e sou um analista de redes em transição para DevOps/SRE </h1>
+
 ---
-<h2 align="left"> primeiramente vou me apresentar<h2>
+
+<h2 align="left"> primeiramente vou me apresentar</h2>
 
 * atualmente trabalho como consultor de projetos para um fabricante de equipamentos de redes de transporte
 * criei esse perfil no github para registrar a minha evolução na transição de carreira
