@@ -1,4 +1,4 @@
-<h1 align="center"> olá, meu nome é Vinícius </h1>
+<h1 align="left"> oi, eu sou o Vinícius </h1>
 
 <h2 align="left"> sobre mim </h2>
 <ul align="left">
