@@ -42,7 +42,6 @@
   <a href="https://github.com/bl4cktux89">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4cktux89&layout=compact&langs_count=7&theme=dark"/>
-  <img height="160em" src="https://starchart.cc/bl4cktux89/bl4cktux89.svg">
 
   ![Snake animation](https://github.com/bl4cktux89/bl4cktux89/blob/output/github-contribution-grid-snake.svg)
 </div>
