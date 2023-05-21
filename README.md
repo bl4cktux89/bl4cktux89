@@ -11,9 +11,9 @@
 <div align="left" style="display: inline_block"><br>
   <img align="center" alt="bl4cktux89-linux" height="45" width="60" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
   <img align="center" alt="bl4cktux89-bash" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg">
-  <img align="center" alt="bl4cktux89-grafana" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" />
   <img align="center" alt="bl4cktux89-code" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="bl4cktux89-putty" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />       
+  <img align="center" alt="bl4cktux89-putty" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" />
+  <img align="center" alt="bl4cktux89-grafana" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg">       
 </div>
 
 <h2 align="left">ferramentas que estou estudando</h2>
@@ -40,8 +40,8 @@
 <h2 align="left"> github stats</h2>
 <div align="left">
   <a href="https://github.com/bl4cktux89">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4cktux89&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4cktux89&layout=compact&langs_count=7&theme=dracula"/>
 
   ![Snake animation](https://github.com/bl4cktux89/bl4cktux89/blob/output/github-contribution-grid-snake.svg)
 </div>
