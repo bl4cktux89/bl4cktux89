@@ -46,6 +46,3 @@
 
   ![Snake animation](https://github.com/bl4cktux89/bl4cktux89/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-<div align="center">
-  <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
