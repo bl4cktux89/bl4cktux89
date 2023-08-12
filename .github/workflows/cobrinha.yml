@@ -22,11 +22,11 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.DEV_GITHUB_TOKEN }}
+          GITHUB_TOKEN: $secrets.DEV_GITHUB_TOKEN
       
       - name: Discord notification
         env:
-          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+          DISCORD_WEBHOOK: $secrets.DISCORD_WEBHOOK
         uses: Ilshidur/action-discord@master
         with:
           args: "deploy da front-page do github foi executado com sucesso!"
