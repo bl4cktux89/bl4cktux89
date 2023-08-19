@@ -44,5 +44,8 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4cktux89&layout=compact&langs_count=7&theme=dracula"/>
  
-  ![Snake animation](https://github.com/bl4cktux89/bl4cktux89/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation][snake]
 </div>
+
+
+[snake]: https://github.com/bl4cktux89/bl4cktux89/blob/output/github-contribution-grid-snake.svg
