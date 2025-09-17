@@ -1,28 +1,30 @@
-# oi, eu sou o Vinícius
+# Analista de Redes e Telecomunicações
 
 ## sobre mim
 
-- sou um entusiasta de tecnologia, videogames, livros, café e música
-- gosto de resolver problemas e acredito que posso aprender qualquer coisa
-- estou me preparando para transicionar para DevOps/SRE/Platform Engineer em algum momento
+Atuando na área de tecnologia desde 2008, minha carreira tem sido movida por um objetivo claro: garantir que a comunicação não falhe quando ela mais importa. Seja conectando um país durante eventos globais como a Copa do Mundo FIFA 2014 (projeto que atuei na ampliação e operação da infraestrutura durante todo o evento) ou sustentando a operação da maior transmissora de energia do Brasil, minha missão é criar, operar e manter soluções de rede que sejam sinônimo de confiabilidade.
 
-## experiência profissional
+Minha jornada me permitiu colaborar com gigantes da tecnologia (Cisco, Huawei, Ciena, Infinera/Nokia) e as principais operadoras do Brasil (Claro, Vivo, Oi e TIM), desenvolvendo e operando soluções de rede de transporte (SDH, DWDM e PDH) e redes tcp/ip (backbone, datacenter, enterprise e metro ethernet).
 
-- redes e infraestrutura: trabalho na área desde 2008, com experiência em implantação, operação e manutenção de redes de transporte de longa distância e metropolitanas. Atuei em projetos notáveis, como a Copa das Confederações 2013 e a Copa do Mundo FIFA 2014
-- trabalhei em empresas que possuem parcerias estratégicas com fabricantes líderes de mercado, incluindo Cisco, Huawei, Infinera e Ciena, fornecendo soluções inovadoras para as principais operadoras de telecomunicações do Brasil, como Vivo, Claro, TIM e Oi
-- setor de energia: atualmente, trabalho com operação e manutenção em sistemas de telecomunicações na maior transmissora de energia do Brasil, pertencente ao grupo State Grid Brazil Holding
+Onde muitos veem apenas cabos e equipamentos, eu vejo uma oportunidade de inovar. Fui reconhecido com o prêmio Inova a Ação (2024) - Premiação concedida pela State Grid Brazil Holding - por transformar a maneira como monitoramos nossa infraestrutura, criando uma solução com Zabbix e Grafana que trouxe mais inteligência e clareza para a nossa operação.
 
-## formação acadêmica
+O que eu ofereço:
 
-- pós-graduação: estou cursando uma pós-graduação em segurança de redes de computadores para aprimorar ainda mais meus conhecimentos
-- graduação: sou graduado em redes de computadores, adquirindo uma base sólida nessa área
-- formação técnica: também possuo formação técnica em eletrônica, o que me proporciona uma compreensão abrangente dos sistemas tecnológicos
+- Visão Estratégica: Capacidade de entender as necessidades do negócio e traduzi-las em soluções técnicas eficientes e confiáveis.
+- Experiência Comprovada: Atuação em ambientes de alta pressão e complexidade, desde grandes eventos globais a infraestruturas de energia.
+- Conhecimento Técnico: Graduando em Engenharia de Computação, graduado em Redes de Computadores, pós-graduado em Segurança de Redes de Computadores e em preparação para a certificação CCNA.
+- Mentalidade Inovadora: Paixão por buscar constantemente maneiras de otimizar processos e garantir a excelência.
+
+- Experiência com os seguintes protocolos de rede: OSPF, MPLS, AAA, PBR, ACL, NAT, PAT,CEF, Stack, QoS, UDLD, IPv4 e IPv6, Dual Stack, STP, RSTP, MSTP, DTP, CDP, VTP, VRF Lite, HSRP, VRRP, VLAN, NTP, SNMP.
+
+Sou movido por desafios complexos e pela busca incessante de qualidade. Se você procura um profissional que une vasta experiência técnica com um compromisso inegociável com a excelência, vamos conversar.
 
 ## ferramentas que utilizo
 
 - modelos OSI e TCP/IP
 - linux
-- scripting
+- shell scripting
+- python
 - zabbix
 - grafana
 
@@ -36,16 +38,3 @@
 ## contato
 
 - [beacons.ai](https://beacons.ai/bl4cktux89)
-
-## github stats
-
-<div align="left">
-  <a href="https://github.com/bl4cktux89">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=bl4cktux89&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bl4cktux89&layout=compact&langs_count=7&theme=dracula"/>
- 
-  ![Snake animation][snake]
-</div>
-
-
-[snake]: https://github.com/bl4cktux89/bl4cktux89/blob/output/github-contribution-grid-snake.svg
